@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "WizardReport", "WizardReport\WizardReport.rptproj", "{7673DC98-9479-4883-8816-F6292A3C9A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.Debug|Default.ActiveCfg = Debug
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.Debug|Default.Build.0 = Debug
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.Debug|Default.Deploy.0 = Debug
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.DebugLocal|Default.Build.0 = DebugLocal
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.Release|Default.ActiveCfg = Release
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.Release|Default.Build.0 = Release
+		{7673DC98-9479-4883-8816-F6292A3C9A0A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0DEDAA-BE97-448A-BBD7-5DC9594C4D87}
+	EndGlobalSection
+EndGlobal
