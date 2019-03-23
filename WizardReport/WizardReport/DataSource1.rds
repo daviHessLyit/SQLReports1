@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SQLReportServer;Initial Catalog=AdventureWorks2016CTP3</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>25bb57d7-9f45-4246-b5b2-99b5cc1da3ee</DataSourceID>
+</RptDataSource>
