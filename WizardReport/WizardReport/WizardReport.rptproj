@@ -12,7 +12,7 @@
     <TargetDatasetFolder>Datasets</TargetDatasetFolder>
     <TargetDatasourceFolder>Data Sources</TargetDatasourceFolder>
     <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
-    <TargetServerURL>http://localhost/ReportServer</TargetServerURL>
+    <TargetServerURL>http://sqlreportserver/Reports</TargetServerURL>
     <StartItem>First Report.rdl</StartItem>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'DebugLocal' ">
